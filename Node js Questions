@@ -1,0 +1,6 @@
+Basics & Fundamentals
+1.What is Node js ?
+2.Difference between synchronous & asynchronous programming.
+3.What is NPM? What is package.json and package-lock.json?
+4.What is REPL in Node.js?
+5.What is the Event Loop in Node.js?
