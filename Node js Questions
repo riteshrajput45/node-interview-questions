@@ -1,6 +1,22 @@
-Basics & Fundamentals
 1.What is Node js ?
 2.Difference between synchronous & asynchronous programming.
 3.What is NPM? What is package.json and package-lock.json?
 4.What is REPL in Node.js?
 5.What is the Event Loop in Node.js?
+6.Difference between process.nextTick(), setImmediate(), setTimeout().
+7.What is middleware in Express.js? Give example.
+8.What is a Promise? Difference between promise & callback?
+9.What are callbacks? What is callback hell? How to avoid it?
+10.Explain async/await in Node.js.
+11.What are built-in modules in Node.js? (fs, http, path, os, events)
+12.What is the use of fs module? How do you read/write files?
+13.hat is the events module in Node.js?
+14.What is difference between dependency and devDependency in NPM?
+15.What is routing in Express?
+16.How do you handle file uploads in Node.js (multer)?
+17.How do you implement authentication in Node.js (JWT, session, OAuth)?
+18.What are streams in Node.js? Types of streams.
+19.
+20.
+21.
+22.
