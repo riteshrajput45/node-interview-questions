@@ -16,7 +16,15 @@
 16.How do you handle file uploads in Node.js (multer)?
 17.How do you implement authentication in Node.js (JWT, session, OAuth)?
 18.What are streams in Node.js? Types of streams.
-19.
-20.
-21.
-22.
+19.What is clustering in Node.js?
+20.What is the difference between spawn, exec, and fork in Node.js?
+21.How does Node.js handle child processes?
+22.What is load balancing in Node.js?
+23.How do you handle errors in Node.js? (try/catch, promises, async/await)
+24.How do you secure Node.js applications? (Helmet, rate limiting, validation, JWT)
+25.What are common Node.js performance optimizations?
+26.What is memory leak in Node.js and how to prevent it?
+27.How do you test Node.js applications? (Mocha, Jest, Supertest)
+28.How do you handle errors in Node.js? (try/catch, promises, async/await)
+29.How do you deploy a Node.js app? (Heroku, AWS, Docker, PM2)
+30.What is the difference between development and production mode in Node.js?
