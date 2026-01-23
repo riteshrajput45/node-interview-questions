@@ -1,0 +1,97 @@
+What is Node.js?
+
+Why use Node.js? (advantages over other languages)
+
+Node.js architecture – single-threaded, event loop model.
+
+Difference between synchronous & asynchronous programming.
+
+What is NPM? What is package.json and package-lock.json?
+
+What are global objects in Node.js? (process, __dirname, __filename)
+
+What is REPL in Node.js?   -------
+
+Core Concepts--------------------
+What is the Event Loop in Node.js?
+
+Difference between process.nextTick(), setImmediate(), setTimeout().
+
+What is middleware in Express.js? Give example.
+
+What are callbacks? What is callback hell? How to avoid it?
+
+What is a Promise? Difference between promise & callback?
+
+Explain async/await in Node.js.
+
+What is error-first callback pattern?
+
+
+--------
+Modules & Packages
+
+Difference between CommonJS (require) and ES Modules (import).
+
+What are built-in modules in Node.js? (fs, http, path, os, events)
+
+What is the use of fs module? How do you read/write files?
+
+What is the events module in Node.js?
+
+What is difference between dependency and devDependency in NPM?
+
+?
+
+🔹 Web Development (Express.js)
+How do you create a simple server in Node.js without Express?
+
+How do you create a REST API in Express?
+
+What is routing in Express?
+
+What is middleware? Types of middleware?
+
+How do you handle file uploads in Node.js (multer)?
+
+How do you implement authentication in Node.js (JWT, session, OAuth)?
+🔹 Advanced Concepts-----------------
+
+What are streams in Nod e.js? Types of streams.
+
+What is clustering in Node.js?
+
+What is the difference between spawn, exec, and fork in Node.js?
+
+How does Node.js handle child processes?
+
+What is load balancing in Node.js?
+
+ Database & Storage ---
+
+How do you connect Node.js with MongoDB/PostgreSQL/MySQL?
+
+Difference between NoSQL (MongoDB) and SQL databases.
+
+How do you perform CRUD operations in MongoDB with Node.js?
+
+What is connection pooling?
+
+Security & Performance--------
+
+How do you handle errors in Node.js? (try/catch, promises, async/await)
+
+How do you secure Node.js applications? (Helmet, rate limiting, validation, JWT)
+
+What are common Node.js performance optimizations?
+
+What is memory leak in Node.js and how to prevent it?
+
+
+🔹 Testing & Deployment -----
+
+How do you test Node.js applications? (Mocha, Jest, Supertest)
+
+How do you deploy a Node.js app? (Heroku, AWS, Docker, PM2)
+
+What is the difference between development and production mode in Node.js?
