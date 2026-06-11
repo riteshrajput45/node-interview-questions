@@ -1,3 +1,5 @@
+Immediatly questions
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 1.What is Node js ?
 2.Difference between synchronous & asynchronous programming.
 3.What is NPM? What is package.json and package-lock.json?
@@ -28,3 +30,131 @@
 28.How do you handle errors in Node.js? (try/catch, promises, async/await)
 29.How do you deploy a Node.js app? (Heroku, AWS, Docker, PM2)
 30.What is the difference between development and production mode in Node.js?
+
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Node.js Basics
+>>>>>>>>>>>>>>>>>>>
+What is Node.js?
+Why use Node.js?
+How does Node.js work?
+Is Node.js single-threaded or multi-threaded?
+What is the Event Loop?
+What are the phases of Event Loop?
+What is non-blocking I/O?
+Difference between synchronous and asynchronous code?
+What is callback?
+Callback Hell?
+How to avoid Callback Hell?
+What are Promises?
+Promise states?
+async/await?
+Difference between Promise and async/await?
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Event Loop & Async Programming
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+What is Event Queue?
+What is Microtask Queue?
+Difference between setTimeout and setImmediate?
+process.nextTick vs setImmediate?
+Execution order of:
+Promise
+setTimeout
+setImmediate
+process.nextTick
+What happens when a blocking operation occurs?
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Modules
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+What are modules?
+CommonJS vs ES Modules?
+require vs import?
+module.exports vs exports?
+How does module caching work?
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Global Objects
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+What is process object?
+What is __dirname?
+What is __filename?
+What are environment variables?
+How to use .env file?
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Express.js Questions
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Express Basics
+What is Express.js?
+Why use Express?
+How routing works?
+What is middleware?
+Types of middleware?
+Application middleware?
+Router middleware?
+Error middleware?
+Third-party middleware?
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request & Response
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+req.params?
+req.query?
+req.body?
+Difference between params and query?
+res.send vs res.json?
+res.status()?
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Error Handling
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Global error handling?
+Try-catch in async functions?
+Express error middleware?
+Custom error classes?
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+. Authentication & Security (Very Important)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+What is JWT?
+Structure of JWT?
+Header, Payload, Signature?
+How JWT works?
+Access Token vs Refresh Token?
+How to refresh token?
+Where to store JWT?
+Cookies vs LocalStorage?
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Security
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+What is Authentication?
+What is Authorization?
+What is OAuth?
+What is Session Authentication?
+JWT vs Session?
+What is HTTPS?
+What is XSS?
+How to prevent XSS?
+What is CSRF?
+How to prevent CSRF?
+What is SQL Injection?
+How to prevent SQL Injection?
+What is Rate Limiting?
+What is Helmet?
+How to secure APIs?
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Advanced
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+What is EventEmitter?
+What are Streams?
+Types of Streams?
+Buffer?
+Pipe?
+Worker Threads?
+Child Process?
+Cluster Module?
+Node.js Internals?
+V8 Engine?
+Libuv?
+Thread Pool?
+DNS Lookup Process?
+How Node.js handles concurrency?
+How Node.js handles thousands of requests?
